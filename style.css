@@ -151,6 +151,16 @@ border-radius: 50%;
     font-weight: 400;
     margin: 0px 5px;
 }
-.Sobre-Nós{ 
+.Sobrenós3{
     font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center
+}
+.Serviços {
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center
+}
+.Formulário {
+    text-align: center;
 }
